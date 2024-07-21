@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Amine Rarrbo a cyber security student , 
+I am Amine Rarrbo a cyber security student
 
 <!--
 **AmineRrB/AmineRrB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
